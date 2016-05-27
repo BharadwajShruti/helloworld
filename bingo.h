@@ -1,4 +1,4 @@
 #ifdef _HEADER_INCLUDE
 #define _HEADER_INCLUDE
-char name[] = "shruti";
+char name[] = "shruti.sb";
 #endif
